@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.StringIndexerModel","timestamp":1756801437462,"sparkVersion":"3.5.1","uid":"strIdx_4dec1f04f2d7","paramMap":{"inputCol":"bed_type","handleInvalid":"skip","outputCol":"stridx_9b37348bc500","stringOrderType":"frequencyDesc"},"defaultParamMap":{"handleInvalid":"error","outputCol":"strIdx_4dec1f04f2d7__output","stringOrderType":"frequencyDesc"}}
